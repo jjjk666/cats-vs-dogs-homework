@@ -21,8 +21,4 @@ cats-vs-dogs-homework/
 ```bash
 pip install -r requirements.txt
 
-requirements.txt 内容如下：
-tensorflow==2.15.0
-numpy==1.26.4
-matplotlib==3.8.3
-pillow==10.2.0
+
